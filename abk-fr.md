@@ -1,4 +1,4 @@
-**Chapitre 1 : La carte vers Veloria**
+## Chapitre 1 : La carte vers Veloria
 
 [](https://www.dailymotion.com/video/x8r5gwq)
 
@@ -6,7 +6,7 @@ Timmy et sa sœur, Emma, avaient toujours rêvé de quelque chose de plus grand 
 
 Le lendemain matin, Timmy et Emma préparèrent leurs sacs avec des goûters, de l’eau et une lampe de poche pour leur aventure. La forêt qui bordait leur village était dense, pleine d’ombres et de sons qu’ils n’avaient jamais entendus. Tandis qu’ils s’enfonçaient dans la forêt, la carte les mena jusqu’à un chêne ancien. Son écorce était couverte de mousse, et ses branches s’élevaient haut, comme pour toucher le ciel. Timmy suivit la carte du doigt, et juste au moment où il le fit, l’arbre se déplaça, révélant un chemin secret bordé de pierres étincelantes. Emma laissa échapper un cri d’émerveillement. « Je crois qu’on l’a trouvé ! » dit-elle. Main dans la main, les deux enfants empruntèrent le chemin, leurs cœurs remplis de curiosité et d’excitation. La forêt semblait s’ouvrir pour eux, et le chemin devant eux était plus clair que jamais.
 
-**Chapitre 2 : Le Pays de la Magie**
+## Chapitre 2 : Le Pays de la Magie
 
 [](https://www.dailymotion.com/video/x99ltac)
 
@@ -14,5 +14,5 @@ Timmy et Emma marchèrent pendant des heures, suivant le sentier scintillant de 
 
 Finalement, après ce qui sembla être une éternité de marche, ils arrivèrent au bord d’une falaise. En dessous d’eux, la mer s’étendait à perte de vue, et à l’horizon, une lumière dorée commença à briller, plus brillante que le soleil. « C’est ça ! » s’écria Timmy en pointant la terre lointaine. Ils pouvaient voir des collines verdoyantes, des eaux cristallines et des tours qui scintillaient comme des étoiles. Le ciel au-dessus d’eux était d’une douce teinte violette, tourbillonnant de magie. Timmy et Emma descendirent vers la côte, où un bateau fait de coquillages scintillants les attendait. Lorsqu’ils montèrent à bord, le bateau s’éleva doucement dans les airs, porté par une brise invisible. « Veloria, nous voilà ! » s’écria Emma, sa voix pleine de joie. Le bateau vogua vers la terre magique, et les enfants eurent l’impression de voler sur un nuage de pur bonheur. L’aventure dont ils avaient rêvé devenait enfin réalité
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMDgxNzEzLDE0OTEwNzMwNzldfQ==
+eyJoaXN0b3J5IjpbLTIwNjM4NjUxMzUsMTQ5MTA3MzA3OV19
 -->
