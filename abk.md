@@ -1,7 +1,7 @@
 Prompt:
 write 2 chapters, of 2 paragraphs long each for a kids book about a little boy that got lost from his sister and he needs to search for her. He embarks on an adventure across the woods and seas to find her
 
-[v2](https://www.dailymotion.com/video/x8r5gwq)
+[v](https://www.dailymotion.com/video/x8r5gwq)
 
 **Chapter 1: The Disappearing Sister**
 
@@ -26,7 +26,7 @@ This is the end of this book. Hope you had fun!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDQ1MjkwMSwtMTg2MzM4MDQ4MCw1NT
+eyJoaXN0b3J5IjpbLTMxNDYyOTM0OSwtMTg2MzM4MDQ4MCw1NT
 IzMzQyMDgsLTU4MTc2MzA5NSwtMTY2MDcyNDcxMiw5NjExMTcz
 NzMsMTczNzc2NjE3MiwxODAyNTE1ODk4LC0xNDk1NzI3MTksMj
 M5NTcwNTU5LC0zMzI0NTUzNjNdfQ==
