@@ -1,7 +1,7 @@
-Prompt:
+### Prompt:
 write 2 chapters, of 2 paragraphs long each for a kids book about a little boy that lives an adventure with his sister in search of a mythical land called Veloria. They go together through woods and seas to find it. At the end of 2nd chapter they finally reach their long-lusted destination where they can finally meet with their friends who wait for them in the land where magic shines like sun in the sky
 
-**Chapter 1: The Map to Veloria**
+## Chapter 1: The Map to Veloria
 
 [](https://www.dailymotion.com/video/x8r5gwq)
 
@@ -9,7 +9,7 @@ Timmy and his sister, Emma, had always dreamed of something more than their smal
 
 The next morning, Timmy and Emma packed their bags with snacks, water, and a flashlight for their adventure. The forest that bordered their village was dense, full of shadows and sounds they’d never heard before. As they ventured deeper into the woods, the map led them to an ancient oak tree. Its bark was covered in moss, and its branches reached high, as if to touch the sky. Timmy traced the map with his finger, and just as he did, the tree shifted, revealing a hidden path lined with sparkling stones. Emma gasped. "I think we’ve found it!" she said. Hand in hand, the two children stepped onto the path, their hearts full of wonder and excitement. The woods seemed to open up for them, the way ahead clearer than ever before.
 
-**Chapter 2: The Land of Magic**
+## Chapter 2: The Land of Magic
 
 [](https://www.dailymotion.com/video/x99ltac)
 
@@ -23,9 +23,9 @@ This is the end of this book. Hope you had fun!
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1OTE2MTAyLC0xMDM5NjQzNzAyLDE4ND
-U4ODQ4NDUsLTMxNDYyOTM0OSwtMTg2MzM4MDQ4MCw1NTIzMzQy
-MDgsLTU4MTc2MzA5NSwtMTY2MDcyNDcxMiw5NjExMTczNzMsMT
-czNzc2NjE3MiwxODAyNTE1ODk4LC0xNDk1NzI3MTksMjM5NTcw
-NTU5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNzM1NDQzOTAxLDg0NTkxNjEwMiwtMTAzOT
+Y0MzcwMiwxODQ1ODg0ODQ1LC0zMTQ2MjkzNDksLTE4NjMzODA0
+ODAsNTUyMzM0MjA4LC01ODE3NjMwOTUsLTE2NjA3MjQ3MTIsOT
+YxMTE3MzczLDE3Mzc3NjYxNzIsMTgwMjUxNTg5OCwtMTQ5NTcy
+NzE5LDIzOTU3MDU1OSwtMzMyNDU1MzYzXX0=
 -->
