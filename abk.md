@@ -1,8 +1,6 @@
 Hello world2!
 
-[vid2](https://www.dailymotion.com/video/x9qt8oq)
-[vid](https://www.youtube.com/watch?v=DWuM5fCVoWA)
-<video src="https://www.youtube.com/watch?v=DWuM5fCVoWA"></video>
+[vid2](https://www.dailymotion.com/video/x6kk4oz)
 
 ---
 This is another!
@@ -10,7 +8,7 @@ This is another!
 ---
 And another!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMTE3MzczLDE3Mzc3NjYxNzIsMTgwMj
-UxNTg5OCwtMTQ5NTcyNzE5LDIzOTU3MDU1OSwtMzMyNDU1MzYz
-XX0=
+eyJoaXN0b3J5IjpbLTE2NjA3MjQ3MTIsOTYxMTE3MzczLDE3Mz
+c3NjYxNzIsMTgwMjUxNTg5OCwtMTQ5NTcyNzE5LDIzOTU3MDU1
+OSwtMzMyNDU1MzYzXX0=
 -->
